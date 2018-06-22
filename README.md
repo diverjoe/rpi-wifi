@@ -5,6 +5,6 @@
 
 ## Usage
 ```
-curl https://raw.githubusercontent.com/diverjoe/rpi-wifi/master/configure | bash -s -- -a MyAP myappass -c WifiSSID wifipass -i 10.3.3.1
+curl https://raw.githubusercontent.com/diverjoe/rpi-wifi/master/configure | bash -s -- -a MyAP myappass -c WifiSSID wifipass -i 10.3.3.1 -n
 
 ```
